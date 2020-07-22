@@ -1,0 +1,52 @@
+#jssor_1
+{
+    margin-left:-650px;
+}
+#our_clients {
+    height: 250px;
+    width: 100%;
+    position: absolute;
+    top: 1803px;
+    //left: 0px;
+/*    background-color: white;*/
+/*    border: solid;*/
+/*    background-image: url("../img/people-coffee-notes-tea.jpg");*/
+/*    background-size: cover;*/
+/*    background-repeat: no-repeat;*/
+/*    background: linear-gradient(#82B1FF,#E3F2FD,#E3F2FD,#82B1FF);*/
+opacity: .9 white;
+}
+#client {
+    height: 60px;
+    width: 400px;
+    position: absolute;
+    top: 15px;
+    left: 50%;
+    margin-left: -180px;
+    //border: solid;
+    font-size: 50px;
+    color:#0085a1;
+    font-family: sans-serif;
+}
+@media only screen and (max-width:1430px){
+    #our_clients{
+        top: 1800px;
+/*        border: solid;*/
+        //background-color: aqua;
+    }
+}
+@media only screen and (max-width:1100px)
+{
+    #our_clients{
+    top: 3500px;
+    width: 115%;
+/*    border: solid;*/
+    }
+    #client{
+        top: 20px;
+        margin-left: -200px;
+    }
+    #jssor_1{
+        left: 0px;
+    }
+}
