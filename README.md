@@ -1,3 +1,3 @@
 # CompanyWebsite
 
-This is a Company Promortional Website.
+This is a Company Promotional Website.
